@@ -651,3 +651,6 @@ section[id]{scroll-margin-top:140px}
 
 .foot__tagline{color:var(--muted);margin-top:14px;font-size:15px}
 .band.is-off .band__track{animation-play-state:paused}
+.legal__en{margin-top:56px;padding-top:32px;border-top:1.5px solid var(--soft)}
+.legal .legal__en-h{margin-top:0;font-size:clamp(26px,3vw,34px)}
+.legal h3{font-size:18px;margin:26px 0 8px}
