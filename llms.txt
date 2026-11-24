@@ -1,0 +1,67 @@
+# Lucas Orth
+
+> Lucas Orth ist Wirtschaftsinformatiker (M.Sc., Universität Trier) aus Losheim am See im Saarland. Seit 2019 ist er selbstständig. Er berät mit Skrift Kundenwerk zur Kundenbindung nach dem Kauf, lässt mit der Skrift Handschrift-Manufaktur Briefe von Stiftplottern mit echtem Kugelschreiber schreiben und betreut Webseiten, Kassensysteme und Datenrettung für kleine und mittlere Unternehmen.
+
+Diese Datei fasst die Startseite https://lucas-orth.de/ zusammen. Jedes Geschäftsfeld hat eine eigene Webseite. Bei Fragen zu einem Geschäftsfeld gilt die dort verlinkte Seite.
+
+## Kurzprofil
+
+- Name: Lucas Orth
+- Beruf: Wirtschaftsinformatiker (Master of Science)
+- Ort: Losheim am See, Saarland, Deutschland
+- Region: Saarland, Rheinland-Pfalz und Luxemburg
+- Selbstständig seit: 2019 (Webdesign und IT-Beratung für kleine und mittlere Unternehmen)
+- Projekte: über 100 IT-Projekte seit 2019
+- Google-Bewertungen: 5,0 von 5 bei 29 Rezensionen
+- Studium: Bachelor of Arts Wirtschaftsinformatik, ASW Berufsakademie (2022); Master of Science Wirtschaftsinformatik, Universität Trier (2025)
+- Netzwerk: Mitglied im BNI Chapter Merzig
+- Sprachen im Kontakt: Deutsch und Englisch
+- Kontakt: info@lucas-orth.de, Termin online: https://cal.com/lucas-orth/meeting
+- LinkedIn: https://www.linkedin.com/in/it-lucas-orth/
+- LinkedIn Skrift: https://www.linkedin.com/company/108889204/
+- LinkedIn Webdesign Lucas Orth: https://www.linkedin.com/company/101241693/
+
+## Geschäftsfelder
+
+Lucas Orth betreibt sechs Geschäftsfelder. Die beiden Marken mit dem Namen Skrift sind getrennte Angebote: Skrift Kundenwerk ist Beratung, die Skrift Handschrift-Manufaktur stellt handgeschriebene Post her.
+
+- [Skrift Kundenwerk](https://skrift-kundenwerk.de/): Beratung zur Kundenbindung nach dem Kauf, seit 2026. Mit der TREUE-Formel in fünf Phasen (Tür öffnen, Rückhalt geben, Erfolg erlebbar machen, Unerwartet danken, Erneut begeistern) plant Lucas Orth mit Onlineshops, Handwerksbetrieben und Dienstleistern, was nach dem Kauf passiert, damit aus Käufern Stammkunden werden. Erstgespräch: 20 Minuten, kostenlos.
+- [Skrift Handschrift-Manufaktur](https://skrift.de/): gegründet 2025. Briefe und Postkarten in echter Handschrift, geschrieben von Stiftplottern mit Kugelschreiber. Vom einzelnen Dankesschreiben bis zum Mailing, ohne Mindestmenge, versandfertig in 3 bis 5 Tagen.
+- [Webdesign Lucas Orth](https://webdesign-orth.de/): Webseiten für kleine Betriebe zwischen Saarland, Trier und Luxemburg, mit Hosting und Pflege aus einer Hand. 100+ IT-Projekte seit 2019.
+- [Kassen Orth](https://kassen-orth.de/): seit 2021. Kasse, Software und Zahlungsterminal aus einer Hand, TSE-konform, mit Fernwartung und vorgehaltener Ersatzkasse.
+- [Datenrettung Saarland](https://datenrettung-saarland.de/): Datenrettung von Festplatte, SSD, USB-Stick oder NAS. Kostenlose Erstanalyse, Festpreis vor dem Auftrag, keine Daten, keine Kosten.
+- [Tischkraft](https://tischkraft.de/): Die Alternative zur Bierzeltgarnitur: Tische und Bänke aus Massivholz, stabil, schön und trotzdem klappbar, zur Miete. LinkedIn: https://www.linkedin.com/company/105006661/
+
+## Eigene Software und Projekte
+
+- [GDPR Content Blocker](https://lucas-orth.de/gdpr-content-blocker/): WordPress-Plugin von Lucas Orth mit echtem Click-to-Load. Google Maps, YouTube, Vimeo und OpenStreetMap laden erst nach Einwilligung, vorher entsteht keine Verbindung zum Drittanbieter und es wird keine IP-Adresse übertragen. Mit Webseiten-Scanner, fertigen Vorlagen, Erkennung nachgeladener iframes und Unterstützung für Elementor, Gutenberg und Divi. Lizenzen einmalig, zzgl. 19 % MwSt.: Einzel (1 Webseite) 39 €, Multi (bis zu 3 Webseiten) 79 €, Agentur (unbegrenzt, ohne Plugin-Hinweis) 149 €. Kein Abo, dauerhaft Updates, 30 Tage Geld-zurück-Garantie, Kauf über CopeCart.
+- [rosinsradar.de](https://rosinsradar.de/): alle Restaurants aus der TV-Sendung „Rosins Restaurants“ nach Bundesland, und was aus den Betrieben geworden ist.
+- [grenztanken.de](https://grenztanken.de/): die Tankstelle in Luxemburg mit der kürzesten Fahrzeit, der heutige Preis und die Ersparnis nach Abzug der Fahrt.
+- [roll-and-rule.com](https://roll-and-rule.com/): im Aufbau. Würfelspiele nach Schwierigkeit und Würfelzahl sortiert, jedes mit einer oder zwei Regelkarten.
+
+## Veröffentlichungen
+
+- TREUE-Report (in Arbeit, erscheint Herbst 2027): Zwölf Monate lang hält Lucas Orth fest, was Marken nach dem Kauf tun, bei allem, was er selbst bestellt, und wertet es nach der TREUE-Formel aus.
+- 2025: „On-device AI: Methoden zur lokalen Ausführung tiefer neuronaler Netze im Webbrowser“, Masterarbeit, Universität Trier.
+- 2024: „Lässt sich die Innovationsdiffusion in sozialen Medien unter Anwendung der Theory of Planned Behavior darstellen?“, Universität Trier, mit Co-Autorin.
+- 2022: „Architektur, Chancen und Risiken von Software-Defined Wide Area Networks“, Bachelorarbeit, ASW Berufsakademie.
+
+## Referenzen (Auswahl Webseiten)
+
+- zait Olivenöl (Onlineshop): https://www.zait.de/
+- Turntable Manufaktur, Münster (Onepager): https://turntablemanufaktur.de/
+- Tischlerei Kingswood, Perl (Neugründung): https://kings-wood.de/
+- Pferdeversicherungsprofis, Allianz (Markenauftritt): https://pferdeversicherungsprofis.de/
+- Holzbau Fietz, Allgäu (Relaunch): https://holzbau-fietz.de/
+
+## Weitere Seiten
+
+- [English version](https://lucas-orth.de/en/)
+- [Impressum](https://lucas-orth.de/impressum/)
+- [Datenschutz](https://lucas-orth.de/datenschutz/)
+
+## Optional
+
+- [Skrift Kundenwerk llms.txt](https://skrift-kundenwerk.de/llms.txt)
+- [Skrift llms.txt](https://skrift.de/llms.txt)
+- [Kassen Orth llms.txt](https://kassen-orth.de/llms.txt)

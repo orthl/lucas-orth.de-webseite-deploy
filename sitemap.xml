@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url><loc>https://lucas-orth.de/</loc><lastmod>2026-11-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lucas-orth.de/"/><xhtml:link rel="alternate" hreflang="en" href="https://lucas-orth.de/en/"/></url>
+  <url><loc>https://lucas-orth.de/en/</loc><lastmod>2026-11-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="de" href="https://lucas-orth.de/"/><xhtml:link rel="alternate" hreflang="en" href="https://lucas-orth.de/en/"/></url>
+  <url><loc>https://lucas-orth.de/gdpr-content-blocker/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://lucas-orth.de/impressum/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://lucas-orth.de/datenschutz/</loc><lastmod>2026-11-24</lastmod></url>
+</urlset>

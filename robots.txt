@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+
+# KI-Suche und KI-Assistenten ausdrücklich erlaubt
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: GPTBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: ClaudeBot
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: CCBot
+Allow: /
+
+User-agent: AhrefsBot
+User-agent: SemrushBot
+User-agent: MJ12bot
+Disallow: /
+
+Sitemap: https://lucas-orth.de/sitemap.xml
