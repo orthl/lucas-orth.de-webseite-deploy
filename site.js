@@ -74,8 +74,10 @@
   /* business fields stack while scrolling: the covered card shrinks a little (only while the stack is on screen) */
   if (!cards.length || reduced()) return;
   let tick = false, active = !io;
+  const flat = matchMedia('(max-width:820px), (max-height:700px)'); /* phone: no stacking (same breakpoints as the CSS) */
   const upd = () => {
     tick = false; if (still()) return;
+    if (flat.matches) { cards.forEach(c => { c.style.transform = ''; c.style.filter = '' }); return }
     cards.forEach((c, i) => {
       const n = cards[i + 1]; if (!n) { c.style.transform = ''; c.style.filter = ''; return }
       const top = parseFloat(getComputedStyle(c).top) || 0, hh = c.offsetHeight;

@@ -513,7 +513,7 @@ a.cal-card:hover .cal-grid span.is-pick{background:var(--ink)}
 .sr-only{position:absolute;left:0;top:0;width:1px;height:1px;margin:-1px;padding:0;border:0;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
 @media (max-width:720px){.repo{grid-template-columns:1fr}.repo__shot{min-height:0;aspect-ratio:16/9}.repo__body{padding:20px 20px 22px}}
 .stack .field:has(:focus-visible){z-index:5}
-@media (max-height:700px){.stack .field{position:relative;top:auto}}
+@media (max-height:700px),(max-width:820px){.stack .field{position:relative;top:auto}} /* Handy: nicht stapeln, Karten laufen normal mit */
 .band :focus-visible{outline-color:#fff}
 .band__pause{width:44px;height:44px}
 .band__pause svg{display:block;margin:auto}
